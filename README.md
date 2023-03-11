@@ -18,7 +18,9 @@
 
 - build images จากตัว Dockerfile ทั้งสองตัวแล้วตั้งชื่อ
 
-![image](https://user-images.githubusercontent.com/113360594/224477756-2ffc6121-fbb5-4be0-962c-10beadf07996.png)
+![image](https://user-images.githubusercontent.com/113360594/224478503-fd484c23-317c-46bd-8183-550569c98f25.png)
+
+![image](https://user-images.githubusercontent.com/113360594/224478637-a4b2e452-984b-4dbc-8338-3ff6fbbb5f91.png)
 
 - เข้าสู่ระบบ docker hub โดยใช้คำสั่ง 
 
@@ -86,9 +88,10 @@
 
 - deploy stack ที่ https://portainer.ipv9.me/ 
 
-
+![image](https://user-images.githubusercontent.com/113360594/224478532-0dec2f61-8f26-4b1e-8ba3-7d32b4a4fbbb.png)
 
 - ตรวจสอบ url ที่ใช้งาน
    
    - https://spcn11swarm02.xops.ipv9.me/
 
+![image](https://user-images.githubusercontent.com/113360594/224478685-9714c6ab-d5f4-40da-8028-f9cff1f55691.png)
