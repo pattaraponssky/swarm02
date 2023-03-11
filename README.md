@@ -34,7 +34,7 @@
 
 ### STACK DEPLOY
 
- - สร้างไฟล์คำสั่งไว้
+ - สร้างไฟล์ไว้สำหรับเขียนคำสั่ง deploy stack
 
             version: '3'
             services:
